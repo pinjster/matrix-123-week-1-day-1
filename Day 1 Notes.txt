@@ -1,0 +1,32 @@
+Questions: Quick absense? Cheating, and how far does searching functions count as cheat? 
+Break Time?
+TURN IN ON TIME
+Try to account for possible different outcomes in code
+CMD Prompts 
+	-dir (list files and directories)
+	-cd (change directory)
+	-mkdir (create directory)
+	-del (delete file)
+	-rmdir (remove directory)
+	-touch (make file)
+GIT (Each project(repository)starts with following steps when creating from scratch)
+	-git init (Starts new Repo(Local))
+	-git remote add <name-of-remote> <URL-To_Remote-Repo> (Add New Remote(Local))
+	-git add (Adds new Files to Current Repo(Local))
+	 git add <name-of-files> OR . 
+	-git add, git commit, git push is sequence
+	-git commit -m "First Commit"(Commit New Files Into Holding Area)
+	-git push <name-of-remote> <name-of-branch> (Send New Changes to Remote Repo)
+	-git branch -m <name> (Changes branch name)
+	- rm -rf .git (removes git repository)
+	-git status (gives info on repository)
+	-git log --oneline ()
+	-git remote -v (shows added)
+	-git reset <commit hash> --hard (resets back to select commit)
+GIT line of events()
+	-Start new Repo (Local) git init
+	-Add Files to Repo (Local)
+hashing generates a unique id
+
+
+HOMEWORK: make a joint repository with class
